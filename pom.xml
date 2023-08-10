@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>sia</groupId>
 	<artifactId>simple-web-app</artifactId>
-	<version>my first test for maven release plugin</version>
+	<version>0.0.1-snapshot</version>
 	<name>simple-web-app</name>
 	<description>Simple Spring Boot Example</description>
 	<properties>
@@ -25,7 +25,6 @@
 	<scm>
 		
   <developerConnection>scm:git:ssh://github.com/YoanCode/simple-web-app.git</developerConnection>
-	  <tag>vmy first test for maven release plugin</tag>
   </scm>
 	
 	
