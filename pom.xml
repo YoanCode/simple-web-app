@@ -24,7 +24,7 @@
 
 	<scm>
 		
-  <developerConnection>scm:git:ssh:YoanCode@https://github.com/YoanCode/simple-web-app.git</developerConnection>
+  <developerConnection>scm:git:ssh://YoanCode@github.com/YoanCode/simple-web-app.git</developerConnection>
    
   </scm>
 	
