@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>sia</groupId>
 	<artifactId>simple-web-app</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>simple-web-app</name>
 	<description>Simple Spring Boot Example</description>
 	<properties>
