@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>sia</groupId>
 	<artifactId>simple-web-app</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>simple-web-app</name>
 	<description>Simple Spring Boot Example</description>
 	<properties>
@@ -26,7 +26,6 @@
 		
   <developerConnection>scm:git:ssh:YoanCode@https://github.com/YoanCode/simple-web-app.git</developerConnection>
    
-    <tag>v0.0.2</tag>
   </scm>
 	
 	
