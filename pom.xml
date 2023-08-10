@@ -23,7 +23,7 @@
 	</distributionManagement>
 
 	<scm>
-		
+		<connection>scm:git:ssh://YoanCode@github.com/YoanCode/simple-web-app.git</connection>
   <developerConnection>scm:git:ssh://YoanCode@github.com/YoanCode/simple-web-app.git</developerConnection>
    
     <tag>v0.0.2</tag>
