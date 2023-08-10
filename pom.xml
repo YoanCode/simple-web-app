@@ -27,6 +27,7 @@
 	</distributionManagement>
 
 	<scm>
+	<url>scm:git:ssh://git@github.com/YoanCode/simple-web-app.git</url>
 		<connection>scm:git:ssh://git@github.com/YoanCode/simple-web-app.git</connection>
   <developerConnection>scm:git:ssh://git@github.com/YoanCode/simple-web-app.git</developerConnection>
    
