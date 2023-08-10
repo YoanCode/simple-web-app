@@ -24,11 +24,8 @@
 
 	<scm>
 		
-  <developerConnection>scm:git:ssh://git@github.com:YoanCode/simple-web-app.git</developerConnection>
-  
+  <developerConnection>scm:git:ssh://github.com/YoanCode/simple-web-app.git</developerConnection>
 	  <tag>vmy first test for maven release plugin</tag>
-	  
-	  
   </scm>
 	
 	
